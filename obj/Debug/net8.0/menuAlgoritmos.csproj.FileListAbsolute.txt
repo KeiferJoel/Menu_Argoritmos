@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\2025\Uni\Algoritmos\menuAlgoritmos\menuAlgoritmos\bin\Debug\net8.0\menuAlgoritmos.exe
+C:\Users\user\source\repos\2025\Uni\Algoritmos\menuAlgoritmos\menuAlgoritmos\bin\Debug\net8.0\menuAlgoritmos.deps.json
+C:\Users\user\source\repos\2025\Uni\Algoritmos\menuAlgoritmos\menuAlgoritmos\bin\Debug\net8.0\menuAlgoritmos.runtimeconfig.json
+C:\Users\user\source\repos\2025\Uni\Algoritmos\menuAlgoritmos\menuAlgoritmos\bin\Debug\net8.0\menuAlgoritmos.dll
+C:\Users\user\source\repos\2025\Uni\Algoritmos\menuAlgoritmos\menuAlgoritmos\bin\Debug\net8.0\menuAlgoritmos.pdb
+C:\Users\user\source\repos\2025\Uni\Algoritmos\menuAlgoritmos\menuAlgoritmos\obj\Debug\net8.0\menuAlgoritmos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\2025\Uni\Algoritmos\menuAlgoritmos\menuAlgoritmos\obj\Debug\net8.0\menuAlgoritmos.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\2025\Uni\Algoritmos\menuAlgoritmos\menuAlgoritmos\obj\Debug\net8.0\menuAlgoritmos.AssemblyInfo.cs
+C:\Users\user\source\repos\2025\Uni\Algoritmos\menuAlgoritmos\menuAlgoritmos\obj\Debug\net8.0\menuAlgoritmos.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\2025\Uni\Algoritmos\menuAlgoritmos\menuAlgoritmos\obj\Debug\net8.0\menuAlgoritmos.dll
+C:\Users\user\source\repos\2025\Uni\Algoritmos\menuAlgoritmos\menuAlgoritmos\obj\Debug\net8.0\refint\menuAlgoritmos.dll
+C:\Users\user\source\repos\2025\Uni\Algoritmos\menuAlgoritmos\menuAlgoritmos\obj\Debug\net8.0\menuAlgoritmos.pdb
+C:\Users\user\source\repos\2025\Uni\Algoritmos\menuAlgoritmos\menuAlgoritmos\obj\Debug\net8.0\menuAlgoritmos.genruntimeconfig.cache
+C:\Users\user\source\repos\2025\Uni\Algoritmos\menuAlgoritmos\menuAlgoritmos\obj\Debug\net8.0\ref\menuAlgoritmos.dll
