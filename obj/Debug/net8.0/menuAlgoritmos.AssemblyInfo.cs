@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("menuAlgoritmos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a3e7ca5f331aa044d21a228480dab4da50a165d")]
 [assembly: System.Reflection.AssemblyProductAttribute("menuAlgoritmos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("menuAlgoritmos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

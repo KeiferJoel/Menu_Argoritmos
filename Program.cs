@@ -10,7 +10,7 @@ class Program
         {
             Console.Clear();
             Console.WriteLine("===============================================");
-            Console.WriteLine("Universidad Tecnologica de Santiago");
+            Console.WriteLine("Universidad Tecnologica de Santiagooo");
             Console.WriteLine("UTESA - Sistema Corporativo");
             Console.WriteLine("Entrega final de Algoritmos y estructura de Datos");
             Console.WriteLine("===============================================");
